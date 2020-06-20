@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-MY"
+title                    : "Tyrone Chen's website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tyrone Chen"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,38 +80,38 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Tyrone Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
+  bio              : "PhD student at Monash University"
+  location         : "Australia"
+  employer         : "Monash University"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=tyrone+chen"
+  googlescholar    : "https://scholar.google.com/citations?user=Vu5h_KAAAAAJ&hl=en"
+  email            : # "tyrone.chen@monash.edu"
+  researchgate     : # "https://www.researchgate.net/profile/Tyrone_Chen"
+  uri              : "https://bioinformaticslab.erc.monash.edu/"
+  bitbucket        : # "tyrone_chen"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "tyronechen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9207-0385"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "tyrone__chen"
   vine             :
-  weibo            :
+  weibo            : # "tyronechen91"
   xing             :
   youtube          :
   wikipedia        :
