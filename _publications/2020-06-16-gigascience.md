@@ -1,7 +1,7 @@
 ---
 title: "Integrative computational epigenomics to build data-driven gene regulation hypotheses"
 collection: publications
-permalink: /publication/2020-06-16-gigascience
+permalink: /publications/2020-06-16-gigascience
 excerpt: 'In this review, we perform a critical analysis of methods with the explicit aim of harmonizing data, as opposed to case-specific integration.'
 date: 2020-06-16
 venue: 'GigaScience'
