@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshops"
 permalink: /teaching/2020-software-carpentry
 venue: "International"
-date: 2020
+date: 2020-01-16
 location: "California, USA"
 ---
 

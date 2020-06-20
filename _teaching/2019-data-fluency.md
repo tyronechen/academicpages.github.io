@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshops"
 permalink: /teaching/2019-data-fluency
 venue: "Monash University"
-date: 2019
+date: 2019-07-01
 location: "Melbourne, Australia"
 ---
 
