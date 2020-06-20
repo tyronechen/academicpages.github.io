@@ -25,7 +25,6 @@ Bibtex citation:
 @article{Motazedian2020,
 	author = {Motazedian, Ali and Bruveris, Freya F. and Kumar, Santhosh V. and Schiesser, Jacqueline V. and Chen, Tyrone and Ng, Elizabeth S. and Chidgey, Ann P. and Wells, Christine A. and Elefanty, Andrew G. and Stanley, Edouard G.},
 	doi = {10.1038/s41556-019-0445-8},
-	file = {:Users/tche0054/Downloads/tmp/s41556-019-0445-8.pdf:pdf},
 	isbn = {4155601904458},
 	issn = {14764679},
 	journal = {Nature Cell Biology},
