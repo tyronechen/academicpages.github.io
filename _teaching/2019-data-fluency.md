@@ -8,7 +8,7 @@ date: 2019-07-01
 location: "Melbourne, Australia"
 ---
 
-*2019-present*
+*2019 - present*
 
 Trained researchers how to write code and interact in the digital enquiry space as part of the [Monash Data Fluency project](https://www.monash.edu/data-fluency).
 
