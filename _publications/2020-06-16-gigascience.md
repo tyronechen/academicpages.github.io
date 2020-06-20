@@ -10,7 +10,7 @@ citation: 'Tyrone Chen, Sonika Tyagi, &quot;Integrative computational epigenomic
 ---
 In this review, we perform a critical analysis of methods with the explicit aim of harmonising data, as opposed to case-specific integration. This revealed that matrix factorisation, latent variable analysis, and deep learning are potent strategies. Finally, we describe the properties of an ideal universal data harmonisation framework.
 
-![](giaa064fig3.jpeg)
+![](../files/giaa064fig3.jpeg)
 
 [Online version](http://dx.doi.org/10.1093/gigascience/giaa064)
 
