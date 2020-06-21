@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-Monash University, Melbourne, Australia
+[Monash University](https://www.monash.edu/science/schools/biological-sciences), Melbourne, Australia
 ******
 
 **PhD Student (Computational Biology)**
@@ -21,7 +21,7 @@ Monash University, Melbourne, Australia
 
 - Project title: Identification of biological signals by combining distinct categories of biological data through machine learning.
 
-Australian National University, Canberra, Australia
+[Australian National University](https://biology.anu.edu.au/), Canberra, Australia
 ******
 
 **Bachelor of Science (Hons. 1st Class) Bioinformatics, Molecular Biology, Plant Science.**
@@ -38,7 +38,7 @@ Work experience
 Academic
 ++++++
 
-Bioinformatics lab, School of Biological Sciences, Faculty of Science, Monash University (Dr Sonika Tyagi), Melbourne, Australia
+[Bioinformatics lab](https://bioinformaticslab.erc.monash.edu/), [School of Biological Sciences](https://www.monash.edu/science/schools/biological-sciences), Faculty of Science, Monash University (Dr Sonika Tyagi), Melbourne, Australia
 ******
 
 **PhD Student (Computational Biology)**
@@ -50,7 +50,7 @@ Bioinformatics lab, School of Biological Sciences, Faculty of Science, Monash Un
 - Contributed to writing and data analysis for peer-reviewed academic publications.
 - Open source software development for biological data analysis.
 
-Stemformatics Project, Centre for Stem Cell Systems, Department of Anatomy and Neuroscience, University of Melbourne (Prof. Christine Wells), Melbourne, Australia
+[Stemformatics Project](www.stemformatics.org), [Centre for Stem Cell Systems](https://biomedicalsciences.unimelb.edu.au/departments/anatomy-and-neuroscience/engage/cscs), Department of Anatomy and Neuroscience, University of Melbourne (Prof. Christine Wells), Melbourne, Australia
 ******
 
 **Research Assistant (Bioinformatics)**
@@ -62,7 +62,7 @@ Stemformatics Project, Centre for Stem Cell Systems, Department of Anatomy and N
 - Contributed to data analysis for peer-reviewed academic publications.
 - Open source software development for microarray and high throughput sequencing pipelines.
 
-Stemformatics Project, Australian Institute for Bioengineering and Nanotechnology, University of Queensland (Prof. Christine Wells), Brisbane, Australia
+[Stemformatics Project](www.stemformatics.org), [Australian Institute for Bioengineering and Nanotechnology](https://aibn.uq.edu.au/), University of Queensland (Prof. Christine Wells), Brisbane, Australia
 ******
 
 **Research Assistant (Bioinformatics)**
@@ -71,7 +71,7 @@ Stemformatics Project, Australian Institute for Bioengineering and Nanotechnolog
 
 - Duties and achievements are the same as previously listed role Research Assistant (Bioinformatics) at the University of Queensland.
 
-John Curtin School of Medical Research, Australian National University (Prof. Gavin Huttley), Canberra, Australia
+[John Curtin School of Medical Research](https://jcsmr.anu.edu.au/), Australian National University (Prof. Gavin Huttley), Canberra, Australia
 ******
 
 **Honours Scholar (Bioinformatics)**
@@ -81,7 +81,7 @@ John Curtin School of Medical Research, Australian National University (Prof. Ga
 - Honours project on the development of a computational motif discovery toolkit for identification of signals in biological data.
 - Implemented an algorithm in python using information theory and numerical optimisation to discover contiguous and discontigous signals inbiological sequence data.
 
-Research School of Biology, Australian National University (Prof. Murray Badger), Canberra, Australia
+[Research School of Biology](https://biology.anu.edu.au/), Australian National University (Prof. Murray Badger), Canberra, Australia
 ******
 
 **Summer Research Student (Plant Biology, Microscopy)**
@@ -91,7 +91,7 @@ Research School of Biology, Australian National University (Prof. Murray Badger)
 - Carried out a systematic analysis of physiology of the land plant *Hirschfeldia incana* to identify the principles underlying its relatively high photosynthetic rate compared to closely related plants in its family.
 - Performed plant growth under controlled conditions and conducted subsequent physiological measurements including microscopy as well as associated imaging and leaf gas exchange measurement.
 
-Research School of Biology, Australian National University (Dr. Iain Searle) Canberra, Australia
+[Research School of Biology](https://biology.anu.edu.au/), Australian National University (Dr. Iain Searle) Canberra, Australia
 ******
 
 **Undergraduate Research Student (Molecular Biology, Plant Biology)**
