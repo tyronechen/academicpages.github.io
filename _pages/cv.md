@@ -21,7 +21,6 @@ Education
 - Project title: Identification of biological signals by combining distinct categories of biological data through machine learning.
 
 ## [Australian National University](https://biology.anu.edu.au/), Canberra, Australia
-******
 
 **Bachelor of Science (Hons. 1st Class) Bioinformatics, Molecular Biology, Plant Science.**
 
