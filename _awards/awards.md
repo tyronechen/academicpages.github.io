@@ -1,7 +1,7 @@
 ---
 title: "Awards and honours"
 collection: awards
-permalink: /awards/
+permalink: /awards/awards
 author_profile: true
 ---
 
