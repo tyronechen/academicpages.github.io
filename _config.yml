@@ -88,7 +88,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=tyrone+chen"
   googlescholar    : "https://scholar.google.com/citations?user=Vu5h_KAAAAAJ&hl=en"
   email            : # "tyrone.chen@monash.edu"
-  researchgate     : # "https://www.researchgate.net/profile/Tyrone_Chen"
+  researchgate     : "https://www.researchgate.net/profile/Tyrone_Chen"
   uri              : "https://bioinformaticslab.erc.monash.edu/"
   bitbucket        : # "tyrone_chen"
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "tyrone-chen"
   orcid            : "https://orcid.org/0000-0002-9207-0385"
   pinterest        :
   soundcloud       :
@@ -191,6 +191,13 @@ collections:
 
 # Defaults
 defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: awards
+      author_profile: true
   # _posts
   - scope:
       path: ""
@@ -255,7 +262,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Melbourne # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

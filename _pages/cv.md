@@ -126,6 +126,12 @@ Work experience
 
 - Facilitated learning among undergraduate biology students by running tutoring sessions and designing exercises
 
+Awards and honours
+======
+  <ul>{% for post in site.awards %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 *To be written*
