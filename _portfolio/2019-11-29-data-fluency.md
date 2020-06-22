@@ -1,8 +1,8 @@
 ---
 title: "Data Fluency poster presentation prize"
-collection: awards
+collection: portfolio
 type: "Poster prize"
-permalink: /awards/2019-11-29-data-fluency
+permalink: /portfolio/2019-11-29-data-fluency
 venue: "Monash University"
 date: 2019-11-29
 location: "Melbourne, Australia"

@@ -1,8 +1,8 @@
 ---
 title: "Australian Government Research Training Program Scholarship"
-collection: awards
+collection: portfolio
 type: "Scholarship"
-permalink: /awards/2019-07-12-rtp-scholarship
+permalink: /portfolio/2019-07-12-rtp-scholarship
 venue: "Monash University"
 date: 2019-07-12
 location: "Canberra, Australia"

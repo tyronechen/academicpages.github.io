@@ -1,8 +1,8 @@
 ---
 title: "Monash Faculty of Science Dean's Postgraduate Research Scholarship"
-collection: awards
+collection: portfolio
 type: "Scholarship"
-permalink: /awards/2019-04-29-monash-scholarship
+permalink: /portfolio/2019-04-29-monash-scholarship
 venue: "Monash University"
 date: 2019-04-29
 location: "Melbourne, Australia"

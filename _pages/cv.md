@@ -128,7 +128,7 @@ Work experience
 
 Awards and honours
 ======
-  <ul>{% for post in site.awards %}
+  <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
