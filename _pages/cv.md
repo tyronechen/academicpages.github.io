@@ -132,10 +132,6 @@ Awards and honours
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Skills
-======
-*To be written*
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -153,6 +149,10 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Skills
+======
+*To be written*
 
 Service and leadership
 ======
