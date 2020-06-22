@@ -1,5 +1,5 @@
 ---
-title: "American Association for the Advancement of Science sponsored membership"
+title: "Data Fluency poster presentation prize"
 collection: awards
 type: "Poster prize"
 permalink: /awards/2019-11-29-data-fluency
