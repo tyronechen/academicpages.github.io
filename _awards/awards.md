@@ -1,8 +1,10 @@
 ---
 title: "Awards and honours"
 collection: awards
+type: "Awards and honours"
 permalink: /awards/awards
-author_profile: true
+venue: ""
+location: ""
 ---
 
 # Australian Government Research Training Program Scholarship
