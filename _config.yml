@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Tyrone Chen"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD student at Monash University"
-  location         : "Australia"
-  employer         : "Monash University"
+  location         : # "Australia"
+  employer         : "Monash University, Australia"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=tyrone+chen"
   googlescholar    : "https://scholar.google.com/citations?user=Vu5h_KAAAAAJ&hl=en"
-  email            : # "tyrone.chen@monash.edu"
-  researchgate     : "https://www.researchgate.net/profile/Tyrone_Chen"
+  email            : "tyrone.chen@monash.edu"
+  researchgate     : # "https://www.researchgate.net/profile/Tyrone_Chen"
   uri              : "https://bioinformaticslab.erc.monash.edu/"
   bitbucket        : # "tyrone_chen"
   codepen          :
