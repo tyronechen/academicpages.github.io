@@ -46,7 +46,7 @@ Work experience
 - Contributed to writing and data analysis for peer-reviewed academic publications.
 - Open source software development for biological data analysis.
 
-### [Stemformatics Project](www.stemformatics.org), [Centre for Stem Cell Systems](https://biomedicalsciences.unimelb.edu.au/departments/anatomy-and-neuroscience/engage/cscs), Department of Anatomy and Neuroscience, University of Melbourne (Prof. Christine Wells), Melbourne, Australia
+### [Stemformatics Project](https://www.stemformatics.org/), [Centre for Stem Cell Systems](https://biomedicalsciences.unimelb.edu.au/departments/anatomy-and-neuroscience/engage/cscs), Department of Anatomy and Neuroscience, University of Melbourne (Prof. Christine Wells), Melbourne, Australia
 
 **Research Assistant (Bioinformatics)**
 
@@ -57,7 +57,7 @@ Work experience
 - Contributed to data analysis for peer-reviewed academic publications.
 - Open source software development for microarray and high throughput sequencing pipelines.
 
-### [Stemformatics Project](www.stemformatics.org), [Australian Institute for Bioengineering and Nanotechnology](https://aibn.uq.edu.au/), University of Queensland (Prof. Christine Wells), Brisbane, Australia
+### [Stemformatics Project](https://www.stemformatics.org/), [Australian Institute for Bioengineering and Nanotechnology](https://aibn.uq.edu.au/), University of Queensland (Prof. Christine Wells), Brisbane, Australia
 
 **Research Assistant (Bioinformatics)**
 
