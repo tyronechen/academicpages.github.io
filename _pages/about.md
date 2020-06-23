@@ -13,3 +13,5 @@ PhD student in computational biology in the [Bioinformatics Lab at Monash Univer
 I am working on harmonising data from multiple modalities to build regulatory and functional signatures of a biological process. [This review contains some background information](https://doi.org/10.1093/gigascience/giaa064) for this project.
 
 ![](../files/omics0.png)
+
+<a class="twitter-timeline" data-width="640" data-height="640" href="https://twitter.com/tyrone__chen?ref_src=twsrc%5Etfw">Tweets by tyrone__chen</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
