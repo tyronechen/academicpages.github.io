@@ -14,4 +14,4 @@ I am working on harmonising data from multiple modalities to build regulatory an
 
 ![](../files/omics0.png)
 
-<a class="twitter-timeline" data-width="800" data-height="640" href="https://twitter.com/tyrone__chen?ref_src=twsrc%5Etfw">Tweets by _tyronechen</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="800" data-height="640" href="https://twitter.com/_tyronechen?ref_src=twsrc%5Etfw">Tweets by _tyronechen</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
