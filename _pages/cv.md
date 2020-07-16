@@ -132,6 +132,58 @@ Awards and honours
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Society memberships
+=======
+
+**International Society for Computational Biology: La Jolla, CA, US**
+
+*2020 - present*
+
+[The International Society for Computational Biology (ISCB)](https://www.iscb.org) is a scholarly society for advancing understanding of living systems through computation and for communicating scientific advances worldwide.
+
+**Software Carpentries**
+
+*2020 - present*
+
+The Carpentries teaches foundational coding and data science skills to researchers worldwide. [Software Carpentry is a volunteer project dedicated to teaching basic computing skills to researchers.](https://software-carpentry.org/)
+
+**Australian Bioinformatics and Computational Biology Society (ABACBS)**
+
+*2018 – present*
+
+Bioinformatics and computational biology deal with the management, analysis and interpretation of biological information, especially at the molecular level. The [Australian Bioinformatics And Computational Biology Society (ABACBS)](http://australianbioinformatics.net/the-pipeline/2014/5/28/a-vision-for-australian-bioinformatics-and-computational-bio.html) is focused on the science and profession of bioinformatics and computational biology in Australia.
+
+**Australasian Genomic Technologies Association (AGTA)**
+
+*2014 – 2015*
+
+[The Australasian Genomic Technologies Association AGTA](https://agtagenomics.org.au/) is an incorporated association which serves as a multi-disciplinary professional and educational forum for the use of genomic technologies in Australasia, building on generous support provided by the Australian Cancer Research Foundation (ACRF).
+
+**Institute of Electrical and Electronics Engineers (IEEE)**
+
+*2013 – present*
+
+[The Institute of Electrical and Electronics Engineers](http://www.ieee.org) is a professional association headquartered in New York City that is dedicated to advancing technological innovation and excellence.
+ 
+**American Association for the Advancement of Science**
+
+*2013 - 2015*
+
+[AAAS (American Association for the Advancement of Science) is the world's largest multidisciplinary science organization](http://www.aaas.org/ ), with nearly 130,000 members and subscribers. Its mission is to work toward sound science policy, improved science education, greater international cooperation, and increased public interest in scientific discovery.
+
+**Australian Society for Medical Research (ASMR)**
+
+*2013*
+
+[The Australian Society for Medical Research (ASMR)](http://www.asmr.org.au/ ) is the peak professional society representing Australian health and medical research. The Society has a long established role in public, political and scientific advocacy.
+
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -143,12 +195,6 @@ Publications
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Skills
 ======
