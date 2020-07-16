@@ -132,6 +132,28 @@ Awards and honours
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+<!-- Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul> -->
+
+Skills
+======
+*To be written*
+
 Society memberships
 =======
 
@@ -176,30 +198,3 @@ Bioinformatics and computational biology deal with the management, analysis and 
 *2013*
 
 [The Australian Society for Medical Research (ASMR)](http://www.asmr.org.au/ ) is the peak professional society representing Australian health and medical research. The Society has a long established role in public, political and scientific advocacy.
-
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-
-Skills
-======
-*To be written*
-
-Service and leadership
-======
-*To be written*
