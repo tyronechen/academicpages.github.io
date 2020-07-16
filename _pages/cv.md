@@ -157,7 +157,7 @@ Skills
 Society memberships
 =======
 
-**International Society for Computational Biology: La Jolla, CA, US**
+**International Society for Computational Biology**
 
 *2020 - present*
 
