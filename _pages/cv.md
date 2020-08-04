@@ -152,7 +152,40 @@ Teaching
 
 Skills
 ======
-*To be written*
+
+**Computational biology**
+
+- Machine learning: building and implementing machine learning models (including deep learning)
+- Languages: python, R, bash, pSQL, LaTeX, restructured text, markdown
+- Version control: git, mercurial
+- Virtual environments: conda, virtualenv
+- High performance computing clusters and associated job submissions: PBS, SGE, slurm
+- Big data management: organisation, archival, retrieval and standardisation of large quantities of data and metadata (1-10TB) per dataset
+- Reproducible research practices and documentation: jupyter notebooks, Rmarkdown
+- Workflow languages: nextflow, snakemake
+
+**Bioinformatics, Mathematics, Statistics**
+
+- Data integration: sPLSDA
+- Data visualisation: PCA, interactive plots, genome browsers (IGV, UCSC)
+- Differential gene expression analysis
+- Motif enrichment analyses
+- Batch effect correction
+- Specialised software: data analysis (ComBAT, deseq, edgeR, fastqc, ISMARA, limma, MEME suite, mixOmics, multiqc, pandas, pytorch, supervised normalisation, tensorflow, variance partitioning, voom), data visualisation (ggplot, glimma, matplotlib, Rcircos, seaborn)
+
+**Biology**
+
+- Microscopy: light microscopy and associated sample preparation
+- Plant physiology: Leaf gas exchange measurements, Membrane inlet mass spectrometry, fieldwork, plant growth, sterile plant growth
+- Molecular biology: PCR, Molecular cloning, bacterial transformation, antibiotic screens, gel electrophoresis, RNAase digestion, DNA extraction, media preparation
+
+**Other**
+
+- Teaching and training: usage of microarray and high throughput sequencing pipelines, introduction to programming (python, R, unix shell, high performance computing clusters, deep learning, image recognition), peer mentoring for undergraduate biology students
+- Time management and task organisation
+- Liasing with external collaborators across disciplines to obtain experimental data and relevant metadata
+- Clear communication with individuals across diverse cultural and professional backgrounds
+- Maintaing an organisation’s social media on a specific topic: [Stemformatics Project](https://twitter.com/Stemformatics), [Computational biology lab](https://twitter.com/tyagilab)
 
 Service and leadership
 ======
