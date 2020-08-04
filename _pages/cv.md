@@ -237,6 +237,8 @@ Professional development
 
 **Volunteer experience**
 
+- Hosting and organising lab social events.
+- Organising and participating in journal clubs.
 - Workshop assistance at the [Introduction to Python workshop](https://monashdatafluency.github.io/python-workshop-base/modules/intro/), 28th March, 2019, Monash University, Clayton, Australia.
 - Community outreach with visiting students at the University of Melbourne, 14 July 2016.
 - Community outreach with visiting students at the University of Queensland, 14 September 2014.
