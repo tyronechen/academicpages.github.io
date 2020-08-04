@@ -179,7 +179,7 @@ Skills
 - Plant physiology: Leaf gas exchange measurements, Membrane inlet mass spectrometry, fieldwork, plant growth, sterile plant growth
 - Molecular biology: PCR, Molecular cloning, bacterial transformation, antibiotic screens, gel electrophoresis, RNAase digestion, DNA extraction, media preparation
 
-**Other**
+**Other skills**
 
 - Teaching and training: usage of microarray and high throughput sequencing pipelines, introduction to programming (python, R, unix shell, high performance computing clusters, deep learning, image recognition), peer mentoring for undergraduate biology students
 - Time management and task organisation
@@ -219,7 +219,7 @@ Bioinformatics and computational biology deal with the management, analysis and 
 *2013 – present*
 
 [The Institute of Electrical and Electronics Engineers](http://www.ieee.org) is a professional association headquartered in New York City that is dedicated to advancing technological innovation and excellence.
- 
+
 **American Association for the Advancement of Science**
 
 *2013 - 2015*
@@ -231,3 +231,37 @@ Bioinformatics and computational biology deal with the management, analysis and 
 *2013*
 
 [The Australian Society for Medical Research (ASMR)](http://www.asmr.org.au/ ) is the peak professional society representing Australian health and medical research. The Society has a long established role in public, political and scientific advocacy.
+
+Professional development
+=======
+
+**Volunteer experience**
+
+- Workshop assistance at the [Introduction to Python workshop](https://monashdatafluency.github.io/python-workshop-base/modules/intro/), 28th March, 2019, Monash University, Clayton, Australia.
+- Community outreach with visiting students at the University of Melbourne, 14 July 2016.
+- Community outreach with visiting students at the University of Queensland, 14 September 2014.
+- Community outreach with visiting students at the Australian National University, 2013.
+
+**Contributions to open source software libraries**
+
+- [Modules for use with the s4m shell framework]((https://bitbucket.org/uqokorn/s4m_modules.git)) used in the Stemformatics project
+- [The extra tools needed to run the Stemformatics project](https://bitbucket.org/stemformatics/stemformatics_tools.git) and add datasets into it
+- [Software carpentries lesson material](https://github.com/swcarpentry/python-novice-inflammation)
+
+**Conference and workshop attendance**
+
+- Conference presentation at the 28th International Conference on Intelligent Systems for Molecular Biology (ISMB), 13-16th July, 2020*
+- Conference presentation at the Bioinformatics Open Source Conference (BOSC 2020), 20-23rd July, 2020*
+- Conference presentation at the Australian Bioinformatics and Computational Biology Conference, 9-11th December, 2019, University of Sydney, Sydney, Australia.      
+- Software carpentries instructor training, 10-11th November, 2019, Monash University, Melbourne, Australia.
+- Workshop attendance at the Introduction to Tensor Flow and Machine Learning workshop, 22nd March, 2019, Monash University, Melbourne, Australia.
+- Workshop attendance at the Machine Learning workshop, 29th November, 2018, University of Melbourne, Melbourne, Australia.
+- Workshop attendance at the BioIT workshop, 26th November, 2018, University of Melbourne, Melbourne, Australia.
+- Conference presentation at the Australian Bioinformatics and Computational Biology Conference, 26-29th November, 2018, University of Melbourne, Melbourne, Australia.
+- Conference presentation at the Single Cell Genomics Conference, 14-16th September, 2016, Wellcome Genome Campus Conference Centre, Cambridge, United Kingdom.
+- Workshop attendance at the QFAB RNA-Sequencing workshop, 19-20th November, 2014, Queensland Biosciences Precinct, University of Queensland, Australia.
+- Conference attendance at the Australian Bioinformatics Conference, 11-12th October, 2014, Royal Children’s Hospital, Melbourne, Australia.
+- Conference presentation at the Australasian Genomic Technologies Association 14th Annual Conference (AGTA), 13-15th October, 2014, Crown Promenade Hotel, Melbourne, Australia.
+- Seminar and discussion group attendance for relevant topics in the University of Queensland, University of Melbourne, the Walter and Eliza Hall Institute of Medical Research, Monash University, Royal Melbourne Institute of Technology.
+
+\* *virtual participation due to the COVID-19 pandemic of 2020*
