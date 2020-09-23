@@ -143,7 +143,7 @@ Teaching
 Publications
 ======
 
-A full list of publications and presentations are available on ORCID:
+The full list of publications and presentations is available on ORCID:
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9207-0385" href="https://orcid.org/0000-0002-9207-0385" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-9207-0385</a></div>
 
@@ -160,16 +160,17 @@ A full list of publications and presentations are available on ORCID:
 Skills
 ======
 
-**Computational biology**
+**Computational**
 
 - Machine learning: building and implementing machine learning models (including deep learning)
-- Languages: python, R, bash, pSQL, LaTeX, restructured text, markdown
+- Languages (including markup): python, R, bash, pSQL, LaTeX, restructured text, markdown
 - Version control: git, mercurial
 - Virtual environments: conda, virtualenv
 - High performance computing clusters and associated job submissions: PBS, SGE, slurm
 - Big data management: organisation, archival, retrieval and standardisation of large quantities of data and metadata (1-10TB) per dataset
 - Reproducible research practices and documentation: jupyter notebooks, Rmarkdown
 - Workflow languages: nextflow, snakemake
+- Graphic design for posters and scientific articles: Adobe inDesign, Adobe Illustrator [example poster](https://doi.org/10.7490/f1000research.1117749.1)
 
 **Bioinformatics, Mathematics, Statistics**
 
@@ -191,8 +192,8 @@ Skills
 - Teaching and training: usage of microarray and high throughput sequencing pipelines, introduction to programming (python, R, unix shell, high performance computing clusters, deep learning, image recognition), peer mentoring for undergraduate biology students
 - Time management and task organisation
 - Liasing with external collaborators across disciplines to obtain experimental data and relevant metadata
-- Clear communication with individuals across diverse cultural and professional backgrounds
-- Maintaing an organisation’s social media on a specific topic: [Stemformatics Project](https://twitter.com/Stemformatics), [Computational biology lab](https://twitter.com/tyagilab)
+- Awareness of cultural and professional diversity and clear communication
+- Social media editor: [Stemformatics Project](https://twitter.com/Stemformatics), [Computational biology lab](https://twitter.com/tyagilab)
 
 Society memberships
 =======
@@ -253,6 +254,7 @@ Professional development
 
 **Contributions to open source software libraries**
 
+- [MONET multi-omics clustering algorithm](https://github.com/Shamir-Lab/MONET}{git repository)
 - [Modules for use with the s4m shell framework]((https://bitbucket.org/uqokorn/s4m_modules.git)) used in the Stemformatics project
 - [The extra tools needed to run the Stemformatics project](https://bitbucket.org/stemformatics/stemformatics_tools.git) and add datasets into it
 - [Software carpentries lesson material](https://github.com/swcarpentry/python-novice-inflammation)
