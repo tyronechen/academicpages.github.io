@@ -35,7 +35,7 @@ Education
 Work experience
 ======
 
-## Academic
+## Research
 
 ### [Bioinformatics lab](https://bioinformaticslab.erc.monash.edu/), [School of Biological Sciences](https://www.monash.edu/science/schools/biological-sciences), Faculty of Science, Monash University (Dr Sonika Tyagi), Melbourne, Australia
 
@@ -94,8 +94,7 @@ Work experience
 - Investigated the possible effect of mutations in the small RNA silencing mechanism which might contribute to genomic instability.
 - Performed sterile plant and bacterial growth, PCR, transformation and gel electrophoresis, antibiotic screens, RNAase digestion, DNA extraction and media preparation
 
-## Non-academic
-
+## Teaching
 ### Monash University, Melbourne, Australia.
 
 **Data Fluency Associate Instructor**
@@ -104,6 +103,15 @@ Work experience
 
 - Running software carpentry sessions in unix shell, python, R and high performance computing cluster usage.
 
+### College of Medicine, Biology & Environment, Australian National University, Canberra, Australia
+
+**Peer Mentor for Biology Students**
+
+*2011*
+
+- Facilitated learning among undergraduate biology students by running tutoring sessions and designing exercises
+
+## Other
 ### TraffixGroup, Melbourne, Australia.
 
 **Supervisor (Tram Surveyor)**
@@ -120,14 +128,6 @@ Work experience
 
 - Maintained a molecular biology laboratory focused on non-coding RNA in plants.
 
-### College of Medicine, Biology & Environment, Australian National University, Canberra, Australia
-
-**Peer Mentor for Biology Students**
-
-*2011*
-
-- Facilitated learning among undergraduate biology students by running tutoring sessions and designing exercises
-
 Awards and honours
 ======
   <ul>{% for post in site.portfolio %}
@@ -142,6 +142,11 @@ Teaching
 
 Publications
 ======
+
+A full list of publications and presentations are available on ORCID:
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9207-0385" href="https://orcid.org/0000-0002-9207-0385" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-9207-0385</a></div>
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
