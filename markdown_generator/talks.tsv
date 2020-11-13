@@ -1,5 +1,18 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+"GEMMZ (Genetics, Ecology, Microbiology, Medicine, Zoology conference) 2020"	Delegate	gemmz-2020	Monash University (virtual from COVID-19 pandemic of 2019)	2020-12-04	"Melbourne, Australia"		
+ABACBS (Australian Bioinformatics and Computational Biology Conference) 2020	Talk/Poster	abacbs-2020	Australian National University (virtual from COVID-19 pandemic of 2019)	2020-11-24	"Canberra, Australia"		
+COMBINE (Australian Computational Biology and Bioinformatics Student Society symposium) 2020	Talk/Poster	combine-2020	Australian National University (virtual from COVID-19 pandemic of 2019)	2020-11-23	"Canberra, Australia"		
+EMBL (European Molecular Biology Laboratory 22nd PhD Symposium) 2020	Poster	embl-2020	European Molecular Biology Laboratory	2020-11-27	"Heidelberg, Germany"		
+DLiMB (Deep Learning in Medical Biology conference) 2020	Delegate	dlimb-2020	(virtual from COVID-19 pandemic of 2019)	2020-10-15			
+BioCAsia 2020	Delegate	biocasia-2020	(virtual from COVID-19 pandemic of 2019)	2020-10-29			
+ISMB (28th International Conference on Intellgent Systems for Molecular Biology) 2020	Talk/Poster	ismb-2020	Palais dès congres de Montréal (virtual from COVID-19 pandemic of 2019)	2020-07-13	"Montreal, Canada"	https://doi.org/10.7490/F1000RESEARCH.1118023.1	
+BOSC (Bioinformatics Open Source Conference) 2020	Poster	bosc-2020	(virtual from COVID-19 pandemic of 2019)	2020-07-20		https://doi.org/10.7490/F1000RESEARCH.1118023.1	
+ABACBS (Australian Bioinformatics and Computational Biology Conference) 2019	Poster	abacbs-2019	University of Sydney	2020-12-09	"Sydney, Australia"	https://doi.org/10.7490/f1000research.1117749.1	
+COMBINE/AYRCOB (Australian Computational Biology and Bioinformatics Student Society/Asian Young Researchers Conference on Computational and Omics Biology symposium) 2019	Poster	combine-2019	University of Sydney	2020-12-08	"Sydney, Australia"	https://doi.org/10.7490/f1000research.1117749.1	
+"GEMMZ (Genetics, Ecology, Microbiology, Medicine, Zoology conference) 2019"	Poster	gemmz-2019	Monash University	2020-12-04	"Melbourne, Australia"	https://doi.org/10.7490/f1000research.1117749.1	
+Data Fluency Digital Toolkit Poster Competition 2019	Talk/Poster	dfdt-2019	Monash University	2020-11-29	"Melbourne, Australia"	https://doi.org/10.26180/5DE98972A2661	
+ABACBS (Australian Bioinformatics and Computational Biology Conference) 2018	Poster	abacbs-2018	University of Melbourne	2018-11-29	"Melbourne, Australia"	https://doi.org/10.7490/f1000research.1116311.1	
+SCGC (Single Cell Genomics Conference) 2016	Poster	scgc-2016	Wellcome Genome Campus Conference Centre	2016-09-14	"Cambridge, United Kingdom"	https://doi.org/10.7490/f1000research.1113160.1	
+AGTA (Australasian Genomic Technologies Association Conference) 2014	Poster	agta-2014	Crown Promenade Hotel	2014-10-13	"Melbourne, Australia"	https://f1000research.com/posters/1097116	
+ABACBS (Australian Bioinformatics and Computational Biology Conference) 2014	Poster	abacbs-2014	Royal Children's Hospital	2014-10-11	"Melbourne, Australia"	https://f1000research.com/posters/1097116	
+ASMR (Australian Society for Medical Research) 2013	Poster	asmr-2013	Australian National University	2013-07-01	"Canberra, Australia"		
