@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://tyronechen.github.io/files/CV_Chen.pdf).
+
 Education
 ======
 
@@ -33,7 +35,7 @@ Education
 Work experience
 ======
 
-## Academic
+## Research
 
 ### [Bioinformatics lab](https://bioinformaticslab.erc.monash.edu/), [School of Biological Sciences](https://www.monash.edu/science/schools/biological-sciences), Faculty of Science, Monash University (Dr Sonika Tyagi), Melbourne, Australia
 
@@ -92,8 +94,7 @@ Work experience
 - Investigated the possible effect of mutations in the small RNA silencing mechanism which might contribute to genomic instability.
 - Performed sterile plant and bacterial growth, PCR, transformation and gel electrophoresis, antibiotic screens, RNAase digestion, DNA extraction and media preparation
 
-## Non-academic
-
+## Teaching
 ### Monash University, Melbourne, Australia.
 
 **Data Fluency Associate Instructor**
@@ -102,6 +103,15 @@ Work experience
 
 - Running software carpentry sessions in unix shell, python, R and high performance computing cluster usage.
 
+### College of Medicine, Biology & Environment, Australian National University, Canberra, Australia
+
+**Peer Mentor for Biology Students**
+
+*2011*
+
+- Facilitated learning among undergraduate biology students by running tutoring sessions and designing exercises
+
+## Other
 ### TraffixGroup, Melbourne, Australia.
 
 **Supervisor (Tram Surveyor)**
@@ -118,14 +128,6 @@ Work experience
 
 - Maintained a molecular biology laboratory focused on non-coding RNA in plants.
 
-### College of Medicine, Biology & Environment, Australian National University, Canberra, Australia
-
-**Peer Mentor for Biology Students**
-
-*2011*
-
-- Facilitated learning among undergraduate biology students by running tutoring sessions and designing exercises
-
 Awards and honours
 ======
   <ul>{% for post in site.portfolio %}
@@ -140,6 +142,11 @@ Teaching
 
 Publications
 ======
+
+The full list of publications and presentations is available on ORCID:
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9207-0385" href="https://orcid.org/0000-0002-9207-0385" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-9207-0385</a></div>
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -153,16 +160,17 @@ Publications
 Skills
 ======
 
-**Computational biology**
+**Computational**
 
 - Machine learning: building and implementing machine learning models (including deep learning)
-- Languages: python, R, bash, pSQL, LaTeX, restructured text, markdown
+- Languages (including markup): python, R, bash, pSQL, LaTeX, restructured text, markdown
 - Version control: git, mercurial
 - Virtual environments: conda, virtualenv
 - High performance computing clusters and associated job submissions: PBS, SGE, slurm
 - Big data management: organisation, archival, retrieval and standardisation of large quantities of data and metadata (1-10TB) per dataset
 - Reproducible research practices and documentation: jupyter notebooks, Rmarkdown
 - Workflow languages: nextflow, snakemake
+- Graphic design for posters and scientific articles: Adobe inDesign, Adobe Illustrator [example poster](https://doi.org/10.7490/f1000research.1117749.1)
 
 **Bioinformatics, Mathematics, Statistics**
 
@@ -184,8 +192,8 @@ Skills
 - Teaching and training: usage of microarray and high throughput sequencing pipelines, introduction to programming (python, R, unix shell, high performance computing clusters, deep learning, image recognition), peer mentoring for undergraduate biology students
 - Time management and task organisation
 - Liasing with external collaborators across disciplines to obtain experimental data and relevant metadata
-- Clear communication with individuals across diverse cultural and professional backgrounds
-- Maintaing an organisation’s social media on a specific topic: [Stemformatics Project](https://twitter.com/Stemformatics), [Computational biology lab](https://twitter.com/tyagilab)
+- Awareness of cultural and professional diversity and clear communication
+- Social media editor: [Stemformatics Project](https://twitter.com/Stemformatics), [Computational biology lab](https://twitter.com/tyagilab)
 
 Society memberships
 =======
@@ -246,6 +254,7 @@ Professional development
 
 **Contributions to open source software libraries**
 
+- [MONET multi-omics clustering algorithm](https://github.com/Shamir-Lab/MONET}{git repository)
 - [Modules for use with the s4m shell framework]((https://bitbucket.org/uqokorn/s4m_modules.git)) used in the Stemformatics project
 - [The extra tools needed to run the Stemformatics project](https://bitbucket.org/stemformatics/stemformatics_tools.git) and add datasets into it
 - [Software carpentries lesson material](https://github.com/swcarpentry/python-novice-inflammation)
