@@ -8,7 +8,7 @@ date: 2020-11-27
 location: "Canberra, Australia"
 ---
 
-*2019 - present*
+*2020*
 
 Taught an introductory workshop introducing tensorflow, deep learning and image recognition with convolutional neural networks as part of the [ABACBS (Australian Bioinformatics and Computational Biology Society)](https://www.abacbs.org/) 2020 workshop series.
 
