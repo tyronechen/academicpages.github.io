@@ -151,11 +151,11 @@ The full list of publications and presentations is available on ORCID:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<!-- Talks
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
 
 Skills
 ======
