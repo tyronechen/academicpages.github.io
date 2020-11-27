@@ -1,5 +1,5 @@
 ---
-title: "Data Fluency"
+title: "Introduction to Tensorflow and Deep Learning"
 collection: teaching
 type: "Workshops"
 permalink: /teaching/2020-abacbs
