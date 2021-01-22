@@ -112,6 +112,12 @@ Work experience
 - Facilitated learning among undergraduate biology students by running tutoring sessions and designing exercises
 
 ## Other
+### Australian Computational Biology and Bioinformatics Student Society
+
+**Training and events coordinator**
+
+*2021*
+
 ### TraffixGroup, Melbourne, Australia.
 
 **Supervisor (Tram Surveyor)**
@@ -215,6 +221,12 @@ The Carpentries teaches foundational coding and data science skills to researche
 *2018 – present*
 
 Bioinformatics and computational biology deal with the management, analysis and interpretation of biological information, especially at the molecular level. The [Australian Bioinformatics And Computational Biology Society (ABACBS)](http://australianbioinformatics.net/the-pipeline/2014/5/28/a-vision-for-australian-bioinformatics-and-computational-bio.html) is focused on the science and profession of bioinformatics and computational biology in Australia.
+
+**Australian Computational Biology and Bioinformatics Student Society (COMBINE)**
+
+*2018 – present*
+
+[COMBINE is a student-run Australian organisation for students in computational biology, bioinformatics, and related fields](http://www.combine.org.au). COMBINE is the student subcommittee of The Australian Bioinformatics And Computational Biology Society (ABACBS) as well as the official International Society for Computational Biology (ISCB) Regional Student Group (RSG) for Australia. We aim to bring together students and early-career researchers from the computational and life sciences for networking, collaboration, and professional development.
 
 **Australasian Genomic Technologies Association (AGTA)**
 
